@@ -16,6 +16,7 @@ img {
 .header {
   display: flex;
   flex-shrink: 0;
+  padding: 10px;
   justify-content: space-between;
 }
 .header .left-links,
@@ -41,6 +42,7 @@ button {
 .footer {
   display: flex;
   flex-shrink: 0;
+  padding: 10px;
   justify-content: space-between;
   background-color: #eeeeee;
 }
